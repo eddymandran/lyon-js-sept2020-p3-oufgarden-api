@@ -1,3 +1,12 @@
+## Project links
+ 
+Link front office : https://github.com/eddymandran/lyon-js-sept2020-p3-oufgarden-front-office 
+<br/>
+Link back office  : https://github.com/eddymandran/lyon-js-sept2020-p3-oufgarden-back-office
+<br/>
+Link API : https://github.com/eddymandran/lyon-js-sept2020-p3-oufgarden-api
+
+
 # Setup
 
 Install dependencies and the migration tool :
